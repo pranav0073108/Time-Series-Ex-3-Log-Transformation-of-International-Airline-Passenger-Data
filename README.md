@@ -3,6 +3,7 @@
 # AIM:
 To apply a logarithmic transformation to the International Airline Passenger time series and compare the original and transformed data.
 
+
 # PROGRAM:
 ```
 import matplotlib.pyplot as plt
